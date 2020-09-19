@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/google-auth/static/css/main.5f361e03.chunk.css",
+    "main.js": "/google-auth/static/js/main.35591cf3.chunk.js",
+    "main.js.map": "/google-auth/static/js/main.35591cf3.chunk.js.map",
+    "runtime-main.js": "/google-auth/static/js/runtime-main.6f6f0cd6.js",
+    "runtime-main.js.map": "/google-auth/static/js/runtime-main.6f6f0cd6.js.map",
+    "static/js/2.027ab98b.chunk.js": "/google-auth/static/js/2.027ab98b.chunk.js",
+    "static/js/2.027ab98b.chunk.js.map": "/google-auth/static/js/2.027ab98b.chunk.js.map",
+    "index.html": "/google-auth/index.html",
+    "precache-manifest.44d84726c54ad50f981d04f9b0391a32.js": "/google-auth/precache-manifest.44d84726c54ad50f981d04f9b0391a32.js",
+    "service-worker.js": "/google-auth/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/google-auth/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.027ab98b.chunk.js.LICENSE.txt": "/google-auth/static/js/2.027ab98b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f6f0cd6.js",
+    "static/js/2.027ab98b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.35591cf3.chunk.js"
+  ]
+}
